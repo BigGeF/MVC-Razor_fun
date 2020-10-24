@@ -1872,6 +1872,11 @@
   "RootNamespace": "Razor_Fun",
   "Documents": [
     {
+      "FilePath": "c:\\Program Files\\codingdojo\\C#\\newMe\\AspMVC\\Razor_Fun\\Views\\Home\\hello.cshtml",
+      "TargetPath": "Views\\Home\\hello.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Program Files\\codingdojo\\C#\\newMe\\AspMVC\\Razor_Fun\\Views\\Home\\razor.cshtml",
       "TargetPath": "Views\\Home\\razor.cshtml",
       "FileKind": "mvc"
